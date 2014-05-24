@@ -1,0 +1,9 @@
+{
+  "name": "scout",
+  "paths": ["lib"],
+  "local": ["boot"],
+  "scripts": ["index.js"],
+  "dependencies": {
+    "necolas/normalize.css": "^3.0.0"
+  }
+}

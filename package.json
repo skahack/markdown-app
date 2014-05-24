@@ -1,0 +1,29 @@
+{
+  "name": "markdown",
+  "version": "0.0.0",
+  "description": "markdown",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "window": {
+    "title": "Markdown",
+    "toolbar": true,
+    "frame": true,
+    "width": 1100,
+    "height": 618,
+    "min_width": 990,
+    "min_height": 556,
+    "resizable": true
+  },
+  "author": "SKAhack",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-exec": "^0.4.5",
+    "grunt-node-webkit-builder": "^0.1.21",
+    "load-grunt-tasks": "^0.4.0"
+  }
+}

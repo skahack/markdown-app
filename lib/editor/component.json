@@ -1,0 +1,9 @@
+{
+  "name": "editor",
+  "description": "editor",
+  "scripts": ["index.js"],
+  "templates": ["textarea.html"],
+  "dependencies": {
+    "yyx990803/vue": "^0.10.0"
+  }
+}

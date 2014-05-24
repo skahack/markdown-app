@@ -1,0 +1,13 @@
+{
+  "name": "boot",
+  "description": "Application bootstrap component",
+  "local": [
+    "editor",
+    "preview"
+  ],
+  "scripts": ["index.js"],
+  "styles": ["base.css"],
+  "dependencies": {
+    "yyx990803/vue": "^0.10.0"
+  }
+}

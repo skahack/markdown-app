@@ -1,0 +1,10 @@
+{
+  "name": "preview",
+  "description": "preview",
+  "scripts": ["index.js"],
+  "templates": ["preview.html"],
+  "dependencies": {
+    "yyx990803/vue": "^0.10.0",
+    "chjj/marked": "^0.3.0"
+  }
+}
